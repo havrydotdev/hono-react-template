@@ -8,7 +8,7 @@ This is a GitHub template repository for building monolithic applications using 
 - **React Compiler**.
 - **Hono Dev Server**: Fast and lightweight vite plugin powered by Hono.
 - **End-to-End Type Safety**: TypeScript integration for both backend and frontend.
-- ****
+- **Custom chunk splitting**.
 
 ## Tools Used
 
