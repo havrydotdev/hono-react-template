@@ -49,8 +49,3 @@ This is a GitHub template repository for building monolithic applications using 
 ## Contributing
 
 Feel free to open issues and pull requests to enhance this template.
-
-## License
-
-This project is licensed under the MIT License.
-
