@@ -1,6 +1,6 @@
 # Hono + React App Template
 
-This is a GitHub template repository for building monolithic applications using [Hono](https://hono.dev/) and [React](https://react.dev/). It provides a modern and efficient setup for developing full-stack applications with client-side rendering.
+This is a template repository for building monolithic applications using [Hono](https://hono.dev/) and [React](https://react.dev/). It provides a modern and efficient setup for developing full-stack applications with client-side rendering.
 
 ## Features
 
